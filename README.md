@@ -1,4 +1,4 @@
-# generator-random-integers
+## [TO PAGE](https://marinatripetska.github.io/generator-random-integers/)
 
 ##Zadanie 1:
 
